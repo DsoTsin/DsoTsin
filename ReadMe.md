@@ -10,3 +10,5 @@ To those who wants to connect, for whatever reason, please contact me through th
 
 - [**Linkedin**](https://www.linkedin.com/in/dsotsen/)
 - [**Twitter**](https://twitter.com/dsotsen)
+
+![](https://github-readme-stats.vercel.app/api?username=DsoTsin&show_icons=true)
