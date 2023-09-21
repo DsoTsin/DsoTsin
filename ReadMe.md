@@ -1,5 +1,5 @@
 
-Hi, I'm Zhou Qin. This place is my home page for my spare time projects. Following are two open-source projects of mine that I worked on before,
+Hi, I'm Tsin. This place is my home page for my spare time projects. Following are two open-source projects of mine that I worked on before,
 
 - [kaleido3d](https://github.com/DsoTsin/kaleido3d), a cross-platform renderer intended to become infrastructure for Metaverse Development.
 - [IrisBuild](https://github.com/kaleido3d/IrisBuild/), a cross-platform build system for kaleido3d.
